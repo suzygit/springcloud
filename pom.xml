@@ -19,6 +19,7 @@
 		<module>cloud-hi</module>
 		<module>cloud-hi2</module>
 		<module>cloud-zipkin</module>
+		<module>cloud-no</module>
 	</modules>
 	
 	<parent>
