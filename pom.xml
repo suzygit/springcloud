@@ -20,6 +20,7 @@
 		<module>cloud-hi2</module>
 		<module>cloud-zipkin</module>
 		<module>cloud-no</module>
+		<module>cloud-zuul</module>
 	</modules>
 	
 	<parent>
